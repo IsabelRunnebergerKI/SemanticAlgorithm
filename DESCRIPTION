@@ -1,0 +1,14 @@
+Package: SemanticAlgorithm
+Title: A Semantic Algorithm
+Version: 0.0.0.9000
+Authors@R: 
+    person("Isabel", "Runneberger", , "isabel.runneberger@ki.se", role = c("cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Honestly, it doesn't do anything yet. 
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+URL: https://github.com/IsabelRunnebergerKI/SemanticAlgorithm
+BugReports: https://github.com/IsabelRunnebergerKI/SemanticAlgorithm/issues
