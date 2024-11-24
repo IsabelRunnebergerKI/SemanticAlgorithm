@@ -1,4 +1,4 @@
-#' @title Scoring vector of text based on words
+#' @title Scoring a vector of text based on words
 #' @param words A list of words you want to search for/score. Use * to use prefixes or suffixes.
 #' @param textfile The text file you want to search in, e.g. textfile.
 #' @return A vector of length(text) with scores for each word.

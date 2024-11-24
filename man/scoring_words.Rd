@@ -2,7 +2,7 @@
 % Please edit documentation in R/scoring_words.R
 \name{scoring_words}
 \alias{scoring_words}
-\title{Scoring vector of text based on words}
+\title{Scoring a vector of text based on words}
 \usage{
 scoring_words(words, text = textfile)
 }
@@ -15,7 +15,7 @@ scoring_words(words, text = textfile)
 A vector of length(text) with scores for each word.
 }
 \description{
-Scoring vector of text based on words
+Scoring a vector of text based on words
 }
 \examples{
 negative_words <- c("overwhelming", "*ar", "trapped", "frustrating", "a", "co*", "*ate")
